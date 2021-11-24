@@ -2,19 +2,19 @@
 # Mini Project LTTS
 ## Real-estate advisor
 
-[![cppcheck-action](https://github.com/udaykiran640/miniltts/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/udaykiran640/miniltts/actions/workflows/cppcheck.yml)
+[![cppcheck-action](https://github.com/11710768/M1_QuizGame_C.git/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/11710768/M1_QuizGame_C.git/actions/workflows/cppcheck.yml)
 
 <br>
 
-[![Unit Testing - Unity](https://github.com/udaykiran640/miniltts/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/udaykiran640/miniltts/actions/workflows/unit_testing.yml)
+[![Unit Testing - Unity](https://github.com/11710768/M1_QuizGame_C.git/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/11710768/M1_QuizGame_C.git/actons/workflows/unit_testing.yml)
 
 <br>
 
-[![Valgrind Analysis](https://github.com/udaykiran640/miniltts/actions/workflows/valgrind.yml/badge.svg)](https://github.com/udaykiran640/miniltts/actions/workflows/valgrind.yml)
+[![Valgrind Analysis](https://github.com/11710768/M1_QuizGame_C.git/actions/workflows/valgrind.yml/badge.svg)](https://github.com/11710768/M1_QuizGame_C.git/actions/workflows/valgrind.yml)
 
 <br>
 
-[![Git Inspector](https://github.com/udaykiran640/miniltts/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/udaykiran640/miniltts/actions/workflows/git_inspector.yml)
+[![Git Inspector](https://github.com/11710768/M1_QuizGame_C.git/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/11710768/M1_QuizGame_C.git/actions/workflows/git_inspector.yml)
 
 <br>
 
