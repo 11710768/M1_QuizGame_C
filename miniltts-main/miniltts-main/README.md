@@ -2,23 +2,10 @@
 # Mini Project LTTS
 ## Real-estate advisor
 
+
 [![cppcheck-action](https://github.com/udaykiran640/miniltts/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/udaykiran640/miniltts/actions/workflows/cppcheck.yml)
 
-<br>
-
-[![Unit Testing - Unity](https://github.com/udaykiran640/miniltts/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/udaykiran640/miniltts/actions/workflows/unit_testing.yml)
-
-<br>
-
-[![Valgrind Analysis](https://github.com/udaykiran640/miniltts/actions/workflows/valgrind.yml/badge.svg)](https://github.com/udaykiran640/miniltts/actions/workflows/valgrind.yml)
-
-<br>
-
-[![Git Inspector](https://github.com/udaykiran640/miniltts/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/udaykiran640/miniltts/actions/workflows/git_inspector.yml)
-
-<br>
-
-## Folder Structure
+[!## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
 `1_Requirements`   | Documents detailing requirements and research
