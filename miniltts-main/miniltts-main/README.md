@@ -3,7 +3,6 @@
 ## Real-estate advisor
 
 
-[![cppcheck-action](https://github.com/udaykiran640/miniltts/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/udaykiran640/miniltts/actions/workflows/cppcheck.yml)
 
 [!## Folder Structure
 Folder             | Description
